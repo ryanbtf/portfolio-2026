@@ -41,5 +41,11 @@ a:hover {
 }
 
 main {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 100px;
     color: white;
+}
+
+main > h1, h3 {
+    font-weight: 700;
 }
