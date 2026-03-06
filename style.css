@@ -4,6 +4,7 @@ canvas {
 
 body {
     margin: 0;
+    height: 100vh;
 }
 
 #dots {
@@ -48,4 +49,9 @@ main {
 
 main > h1, h3 {
     font-weight: 700;
+}
+
+.icons {
+    display: flex;
+    gap: 15px;
 }
