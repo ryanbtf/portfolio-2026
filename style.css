@@ -23,12 +23,13 @@ header > nav {
 
 header > nav > a {
     margin-left: 10px;
+    font-weight: 500;
     text-decoration: none;
+    text-shadow: 2px 2px 5px rgb(0, 0, 255);
     padding: 10px;
     border-radius: 5px;
     transition: 0.2s ease;
     color: rgb(14, 14, 180);
-    text-shadow: 2px 2px 5px rgb(0, 0, 255);
 }
 
 a:visited {
